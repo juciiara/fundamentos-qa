@@ -25,7 +25,7 @@ Este ebook foi desenvolvido para fornecer uma base completa em Qualidade de Soft
  🍀Este espaço reúne meus estudos, aprendizados e materiais relacionados à qualidade de software, testes manuais e automação.  
 
  📄 Acesso ao PDF
-[📥 Baixe o Ebook completo aqui](https://github.com/juciiara/fundamentos-qa/blob/main/QA%20Conceitos%20e%20Aplica%C3%A7%C3%B5es.pdf)
+[📥 Baixe o Ebook completo aqui](https://github.com/juciiara/ebook-qualidade-software-testes/blob/main/Fundamentos%20de%20Qualidade%20de%20Software%20%26%20Testes.pdf)
 
 
 
